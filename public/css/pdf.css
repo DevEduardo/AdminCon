@@ -1,0 +1,19 @@
+	
+body{font-family: arial; font-size: 12px!important}
+.table{width: 100%; padding: 0}
+h1{font-size: 1.5em!important;text-transform: uppercase!important;margin: 0}
+.table th{font-size: 12px!important;background-color: #0097A7 !important;color: #E0F7FA; font-weight: bold;}
+#encabezado{background-color: #0097A7 !important;color: #E0F7FA; font-weight: bold;text-align: center;}
+.table td{font-size: 12px!important;padding: 3px!important;}
+.table2 td{font-size: 12px!important;padding: 3px!important; font-weight: bold;}
+.table .td{font-weight: bold; background-color:#E0F7FA;}
+h2{font-size: 1em !important;text-transform: uppercase!important;}
+.text-rigth{text-align: right;}
+footer { position: fixed; bottom: -60px; left: 0px; right: 0px; background-color: lightblue; height: 50px; }
+#tdtitulo{background-color: teal}
+#total{font-weight: bold;}
+#rigth{position: absolute; top:0;right: 0}
+.center{text-align: center!important}
+.page-break {
+    page-break-after: always;
+}
